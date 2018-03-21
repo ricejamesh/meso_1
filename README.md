@@ -7,5 +7,5 @@ The specific example is located at: https://github.com/spring-guides/gs-spring-b
 
 Create docker image using: 
 ```
-docker build -t ricejamesh:gs-spring-boot .
+docker build -t ricejamesh/gs-spring-boot .
 ```
